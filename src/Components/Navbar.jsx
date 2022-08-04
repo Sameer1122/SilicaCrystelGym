@@ -19,8 +19,8 @@ const Navbar = () => {
           src={Logo}
           alt="logo"
           style={{
-            width: "48px",
-            height: "48px",
+            width: "106px",
+
             margin: "0 20px",
           }}
         />
